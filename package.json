@@ -1,0 +1,31 @@
+{
+  "name": "sqbo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "request": "^2.88.2",
+    "sqlite3": "^4.1.1",
+    "tmi.js": "^1.5.0",
+    "node-sass": "^4.13.1",
+    "body-parser": "^1.19.0",
+    "vue": "^2.6.11"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adequm/Sqbo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adequm/Sqbo/issues"
+  },
+  "homepage": "https://github.com/Adequm/Sqbo#readme"
+}
